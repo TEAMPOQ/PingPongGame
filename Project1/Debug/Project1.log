@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Carlos\Desktop\New folder (2)\MyProjects\Project1\Project1\Main.cpp(10,1): warning C4005: 'main': macro redefinition
+C:\Users\Carlos\Downloads\vcpkg-master\installed\x86-windows\include\SDL2\SDL_main.h(109,1): message : see previous definition of 'main'
+  Project1.vcxproj -> C:\Users\Carlos\Desktop\New folder (2)\MyProjects\Project1\Debug\Project1.exe
